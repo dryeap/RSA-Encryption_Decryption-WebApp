@@ -17,13 +17,13 @@ To run this application, you will need Python and Streamlit. Follow these steps 
 1. Clone this repository to your local machine:
 
 ```
-git clone <repository-url>
+git clone https://github.com/ajanraj/RSA-Encryption_Decryption-WebApp.git
 ```
 
 2. Navigate to the cloned repository's directory:
 
 ```
-cd <repository-name>
+cd RSA-Encryption_Decryption-WebApp
 ```
 
 3. Install the required Python packages:
