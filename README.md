@@ -16,21 +16,21 @@ To use this application, you'll need Python and Streamlit. Here are the steps to
 
 1. Clone the repository to your local machine:
 
-   \\\
+   ```
    git clone https://github.com/ajanraj/RSA-Encryption_Decryption-WebApp.git
-   \\\
+   ```
 
 2. Navigate to the directory of the cloned repository:
 
-   \\\
+   ```
    cd RSA-Encryption_Decryption-WebApp
-   \\\
+   ```
 
 3. Install the necessary Python packages:
 
-   \\\
+   ```
    pip install -r requirements.txt
-   \\\
+   ```
 
    This command installs Streamlit and PyCryptodome, the required libraries for the app.
 
@@ -38,9 +38,9 @@ To use this application, you'll need Python and Streamlit. Here are the steps to
 
 Launch the application using Streamlit with the following command:
 
-\\\
+```
 streamlit run app.py
-\\\
+```
 
 Adjust \`app.py\` to the correct path or name of the Python script if needed.
 
